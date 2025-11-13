@@ -11,7 +11,7 @@ tab1, tab2, tab3 = st.tabs(["📊 Project 1: Data Analysis", "🤖 Project 2: Ma
 
 # ---------------- TAB 1 ----------------
 with tab1:
-    st.header("📊 Data Analysis Project")
+    st.header("📊 Data Analysis Project Ahmed Azab")
     st.write("This tab contains details and visualizations for your data analysis project.")
     
     # Example content
