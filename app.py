@@ -28,7 +28,7 @@ with tab1:
 
 # ---------------- TAB 2 ----------------
 with tab2:
-    st.header("🤖 Machine Learning Project")
+    st.header("🤖 Machine Learning Project with abdelrahman")
     st.write("This tab can be used for your ML model demo or results.")
 
     # Example content
